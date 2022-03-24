@@ -1,0 +1,19 @@
+{
+    type: "UserAdded",
+    payload:{
+        id: 1,
+        username: abc,
+        password: abc,
+        address: abc
+    }
+}
+
+{
+    type: "UserDeleted",
+    payload:{
+        id: 1,
+        username: abc,
+        password: abc,
+        address: abc
+    }
+}

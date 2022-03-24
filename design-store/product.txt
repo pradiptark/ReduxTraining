@@ -1,0 +1,7 @@
+{
+    id: 1,
+    name: "Test",
+    price: 2000,
+    quantity: 500,
+    hasDiscount: 0
+},
