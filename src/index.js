@@ -1,7 +1,7 @@
-import store from "./store";
-import * as actions from './actionTypes'
-import { productMarkAsDiscount } from "./action";
-import { productAdded } from "./action";
+import store from "./store/store";
+import * as actions from './store/actionTypes'
+import { productMarkAsDiscount } from "./store/product/action";
+import { productAdded } from "./store/product/action";
 
 
 store.subscribe(() => {
